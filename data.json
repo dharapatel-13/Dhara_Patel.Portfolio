@@ -1,0 +1,114 @@
+
+{
+    "personal": {
+        "name": "Dhara Patel",
+        "role": "BCA Student | Aspiring Web Developer",
+        "profileImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhO_H1jVtLidy6y1flTM0fgFKWBrMA4WY-4xlDQ_pIIg&s=10",
+        "introduction": "I'm a passionate first-year BCA student who loves designing beautiful websites, exploring technology and turning creative ideas into reality. I'm currently building my skills in web development and programming.",
+        "email": "dhara.patel@example.com",
+        "phone": "+91 98765 43210",
+        "location": "Mumbai, India",
+        "resume": "resume.pdf"
+    },
+
+    "about": "Hello! I'm Dhara, a first-year Bachelor of Computer Applications student with a strong interest in technology and creativity. I enjoy learning how websites work and creating attractive, user-friendly digital experiences. My goal is to become a skilled full-stack developer and build meaningful projects that solve real-world problems. I believe in continuous learning, creativity and improving a little every day.",
+
+    "skills": [
+        {
+            "name": "HTML5",
+            "icon": "fa-brands fa-html5",
+            "level": "Structure & Markup"
+        },
+        {
+            "name": "CSS3",
+            "icon": "fa-brands fa-css3-alt",
+            "level": "Styling & Design"
+        },
+        {
+            "name": "JavaScript",
+            "icon": "fa-brands fa-js",
+            "level": "Interactive Websites"
+        },
+        {
+            "name": "Bootstrap",
+            "icon": "fa-brands fa-bootstrap",
+            "level": "Responsive Design"
+        },
+        {
+            "name": "C Programming",
+            "icon": "fa-solid fa-code",
+            "level": "Programming Basics"
+        },
+        {
+            "name": "C++",
+            "icon": "fa-solid fa-laptop-code",
+            "level": "Object Oriented Programming"
+        }
+    ],
+
+    "projects": [
+        {
+            "name": "Personal Portfolio",
+            "image": "https://images.unsplash.com/photo-1467232004584-a241de8bcf5d?w=700",
+            "description": "A modern and responsive personal portfolio website showcasing my introduction, technical skills, projects and academic journey.",
+            "technologies": ["HTML", "CSS", "Bootstrap", "JavaScript"],
+            "link": "https://github.com/"
+        },
+        {
+            "name": "ShopZone Website",
+            "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=700",
+            "description": "A creative shopping website featuring attractive product cards, a clean layout and a user-friendly shopping experience.",
+            "technologies": ["HTML", "CSS", "JavaScript"],
+            "link": "https://github.com/"
+        },
+        {
+            "name": "Jewellery Website",
+            "image": "https://images.unsplash.com/photo-1611652022419-a9419f74343d?w=700",
+            "description": "An elegant jewellery website designed with a premium visual style, beautiful product displays and responsive sections.",
+            "technologies": ["HTML", "CSS", "Bootstrap"],
+            "link": "https://github.com/"
+        },
+        {
+            "name": "Calculator App",
+            "image": "https://images.unsplash.com/photo-1587145820266-a5951ee6f620?w=700",
+            "description": "A simple interactive calculator application that performs basic mathematical operations using JavaScript.",
+            "technologies": ["HTML", "CSS", "JavaScript"],
+            "link": "https://github.com/"
+        }
+    ],
+
+    "education": [
+        {
+            "course": "Bachelor of Computer Applications (BCA)",
+            "college": "ABC College of Arts, Science & Commerce",
+            "semester": "First Year | Semester 1",
+            "duration": "2026 - 2029",
+            "details": "Currently learning computer fundamentals, programming, mathematics and web development."
+        }
+    ],
+
+    "certifications": [
+        {
+            "name": "Introduction to HTML & CSS",
+            "organization": "Online Learning Platform",
+            "year": "2026"
+        },
+        {
+            "name": "JavaScript for Beginners",
+            "organization": "Online Learning Platform",
+            "year": "2026"
+        },
+        {
+            "name": "Introduction to C Programming",
+            "organization": "Online Learning Platform",
+            "year": "2026"
+        }
+    ],
+
+    "socials": {
+        "github": "https://github.com/",
+        "linkedin": "https://www.linkedin.com/",
+        "instagram": "https://www.instagram.com/",
+        "twitter": "https://x.com/"
+    }
+}
